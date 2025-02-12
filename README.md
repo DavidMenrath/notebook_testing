@@ -23,6 +23,7 @@ Binder lets you run Jupyter Notebooks directly in your web browser without insta
 GitHub Codespaces allows you to run the notebooks in a full **VS Code environment in your browser**. This option provides a more powerful development environment and **automatically saves your work**, but it requires a GitHub account and may have resource limitations on free accounts.
 
 **Click below to launch the course in GitHub Codespaces:**
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repository_id=931132863)
 
 ### 3. Run Online with Google Colab
@@ -30,6 +31,7 @@ GitHub Codespaces allows you to run the notebooks in a full **VS Code environmen
 Google Colab is a free cloud-based notebook service provided by Google. It allows you to run Jupyter Notebooks without any installation. One key advantage is that Colab **automatically saves your work in Google Drive**, making it easy to continue where you left off. However, you will need a **Google account** to use it, and some advanced Python libraries may require additional setup.
 
 **Click below to open the course in Google Colab:**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DavidMenrath/notebook_testing/blob/main)
 
 ### 4. Run Offline on Your Computer
