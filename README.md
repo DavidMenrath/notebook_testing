@@ -6,3 +6,8 @@ test hosting of Jupyter notebooks
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repository_id=931132863)
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidMenrath/notebook_testing/HEAD)
+
+
+
