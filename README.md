@@ -15,6 +15,7 @@ Below, we present different ways to run the notebooks. Choose the option that be
 Binder lets you run Jupyter Notebooks directly in your web browser without installing anything. This is the easiest way to get started quickly. However, Binder does not save your changes permanently, so if you modify the notebooks, you need to **download your work manually** before closing the session.
 
 **Click below to launch the course in Binder:**
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidMenrath/notebook_testing/HEAD)
 
 ### 2. Run Online with GitHub Codespaces
