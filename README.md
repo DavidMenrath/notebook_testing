@@ -36,7 +36,7 @@ Google Colab is a free cloud-based notebook service provided by Google. It allow
 
 ### 4. Run Offline on Your Computer
 
-If you already have Python installed on your computer, you can download the notebooks and **run them locally**. This allows you to work in your own environment with full control over your files and installed libraries. You can either manually download the repository as a ZIP file and extract it. If you are familiar with GitHub, you can also clone the repository using Git to keep it organized on your machine. If you prefer to keep your own version and track changes, you can fork the repository on GitHub and work with it independently. Running the notebooks locally requires Python and Jupyter Notebook to be set up on your system.
+If you already have Python installed on your computer, you can **download** the notebooks and run them locally. This allows you to work in your own environment with full control over your files and installed libraries. You can either **download** the repository as a ZIP file and extract it. If you are familiar with GitHub, you can also **clone** the repository using Git to keep it organized on your machine. If you prefer to keep your own version and track changes, you can **fork** the repository on GitHub and work with it independently. Running the notebooks locally requires Python and Jupyter Notebook to be set up on your system.
 
 ---
 
